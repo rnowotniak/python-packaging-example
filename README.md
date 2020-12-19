@@ -42,11 +42,13 @@ Installing the package:
       Downloading https://test-files.pythonhosted.org/packages/42/f2/f1f308cc4f49c6fd8ae432cb1c06b0b88d21feb0f79fcb52cb5d9ada48c7/example_pkg_rnowotniak-0.0.3-py3-none-any.whl (2.5 kB)
     Installing collected packages: example-pkg-rnowotniak
     Successfully installed example-pkg-rnowotniak-0.0.3
+
+Import and use the package:
     
     $ python
     Python 3.9.0 (default, Oct  7 2020, 23:09:01) 
     [GCC 10.2.0] on linux
-    Type "help", "copyright", "credits" or "license" for more information.
+
     >>> import example_pkg
     test!
     >>> 
