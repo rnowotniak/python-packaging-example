@@ -39,7 +39,7 @@ Installing the package:
     $ pip install --user --upgrade -i https://test.pypi.org/simple/ example-pkg-rnowotniak 
     Looking in indexes: https://test.pypi.org/simple/
     Collecting example-pkg-rnowotniak
-      Downloading https://test-files.pythonhosted.org/packages/42/f2/f1f308cc4f49c6fd8ae432cb1c06b0b88d21feb0f79fcb52cb5d9ada48c7/example_pkg_rnowotniak-0.0.3-py3-none-any.whl (2.5 kB)
+      Downloading https://test-files.pythonhosted.org/packages/42/f2/f1f(...)3da48c7/example_pkg_rnowotniak-0.0.3-py3-none-any.whl (2.5 kB)
     Installing collected packages: example-pkg-rnowotniak
     Successfully installed example-pkg-rnowotniak-0.0.3
 
